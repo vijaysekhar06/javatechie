@@ -17,6 +17,7 @@ public class SpringBootApp1Application {
 	public void init()
 	{
 		logger.info("Application Started......");
+		logger.info("uuuuuuuuuuuuuuuuuuuuuuuuuuu");
 	}
 	public static void main(String[] args) {
 		logger.info("Application Started  main method......");
