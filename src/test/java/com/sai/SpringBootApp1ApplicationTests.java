@@ -17,7 +17,7 @@ public class SpringBootApp1ApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		logger.info("Test case Started..************....");
+		logger.info("Test case Started..************@@2@@@@@@@@@@22....");
 		assertEquals(true, true);
 	}
 
